@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="main">
+        <div class="status">
+            <h1>Noise.com</h1>
+            <ul class="list">
+                <li>Home</li>
+                <li>About Us</li>
+                <li>Services</li>
+                <li>Skills</li>
+                <li>Contact Us</li>
+            </ul>                            
+        </div>
+        <div id="top">
+            <div id="overlay">
+                <div id="text">
+                    <h1>Noise</h1>
+                    <div id="textright">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro ad facere perspiciatis qui!
+                        </p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam sapiente delectus at
+                            reprehenderit?</p>
+                        <div id="icons">
+                            <i class="ri-instagram-fill"></i>
+                            <i class="ri-twitter-fill"></i>
+                            <i class="ri-facebook-box-fill"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+        </div>
+        <div id="bottom">
+            <div id="bone1">
+                <h1>Latset news</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur temporibus nulla quisquam? Ab?</p>
+            </div>
+            <div id="bone2"></div>
+            <div id="bone3">
+                <div id="bone3top">
+                    <h4>Alerts</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente incidunt quod consequuntur
+                        perspiciatis.</p>
+                </div>
+                <div id="bone3bottom"> </div>
+            </div>
+            <div id="bone4">
+                <h3>Latest</h3>
+                <div class="notf">
+                    <div id="photo"></div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    <p>
+                </div>
+                <div class="notf">
+                    <div id="photo"></div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    <p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
